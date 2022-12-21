@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 I am a junior undergraduate at the Birla Institute of Technology & Science (BITS), Pilani, India, <br>I have 4+ years of hands-on experience in Python, C/C++, JavaScript, and special interest in Data Science, Web Development. <br>For the last four years, I have been actively working as a lead software developer with various technical groups at BITS Pilani with multiple projects in production with over 5000 active users.<br>
