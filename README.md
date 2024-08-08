@@ -15,8 +15,8 @@ I am a junior undergraduate at the Birla Institute of Technology & Science (BITS
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aagman945&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aagman945&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aagmanbhatt&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aagman945&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aagmanbhatt&icon=6&color=0)](https://visitcount.itsvg.in)
 
